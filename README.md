@@ -6,4 +6,6 @@ Esse organization foi feito para preservar o nome IC-UFF-Oficial para futuros us
 
 Para acessar o site oficial do Instituto, veja [https://www.ic.uff.br/](https://www.ic.uff.br/).
 
+Para o script de afastamento web, veja [https://ic-uff-oficial.github.io/script-afastamento/](https://ic-uff-oficial.github.io/script-afastamento/).
+
 Licença MIT, 2025
